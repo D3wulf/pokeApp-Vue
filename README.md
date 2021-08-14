@@ -1,5 +1,7 @@
 # pokemon
 
+Hecho durante el curso de VueJs de Agosto 2021
+
 ## Project setup
 ```
 npm install
